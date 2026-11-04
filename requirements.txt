@@ -1,0 +1,11 @@
+# TODO: replace with the versions installed on the training computer:
+#   pip freeze | findstr /i "tensorflow torch xlstm numpy pandas scikit-learn scipy matplotlib tqdm"
+tensorflow
+torch
+xlstm==2.0.5
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+tqdm
